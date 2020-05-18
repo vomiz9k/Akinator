@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<BrowseTracker_layout_file>
+	<ActiveTarget name="Debug" />
+	<File name="main.cpp" open="0" top="0" tabpos="3">
+		<Cursor position="52" topLine="0" />
+		<BrowseMarks positions="31,85" />
+		<Book_Marks positions="5766,5766,4870,4870" />
+	</File>
+	<File name="akinator.h" open="0" top="0" tabpos="9">
+		<Cursor position="48" topLine="0" />
+	</File>
+	<File name="musthave_include.h" open="0" top="0" tabpos="7">
+		<Cursor position="0" topLine="0" />
+		<BrowseMarks positions="142" />
+	</File>
+	<File name="stack.h" open="0" top="0" tabpos="6">
+		<Cursor position="794" topLine="9" />
+	</File>
+	<File name="akinator.cpp" open="0" top="0" tabpos="8">
+		<Cursor position="9778" topLine="340" />
+		<BrowseMarks positions="3963,7675,8090,11669" />
+	</File>
+	<File name="stack.cpp" open="0" top="0" tabpos="5">
+		<Cursor position="554" topLine="15" />
+	</File>
+	<File name="stringsort.cpp" open="0" top="0" tabpos="4">
+		<Cursor position="134" topLine="0" />
+	</File>
+</BrowseTracker_layout_file>

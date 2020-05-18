@@ -1,0 +1,30 @@
+# depslib dependency file v1.0
+1575890916 source:c:\users\kiril\documents\c\akinator\main.cpp
+	"musthave_include.h"
+
+1573999745 source:c:\users\kiril\documents\c\akinator\stack.cpp
+	"musthave_include.h"
+
+1574000891 c:\users\kiril\documents\c\akinator\musthave_include.h
+	<assert.h>
+	<cstring>
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	"stack.h"
+	"stringsort.h"
+	"akinator.h"
+
+1573934228 c:\users\kiril\documents\c\akinator\stack.h
+
+1572279668 c:\users\kiril\documents\c\akinator\stringsort.h
+
+1574040355 source:c:\users\kiril\documents\c\akinator\stringsort.cpp
+	"musthave_include.h"
+
+1575891832 c:\users\kiril\documents\c\akinator\akinator.h
+
+1575892226 source:c:\users\kiril\documents\c\akinator\akinator.cpp
+	"musthave_include.h"
+
